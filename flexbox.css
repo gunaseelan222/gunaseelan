@@ -1,0 +1,11 @@
+.container{
+    display:flex;
+
+}
+.container div {
+    background-attachment:;
+    border:4px solid yellow;
+    height: 180px;
+    width:180px ;
+
+}
