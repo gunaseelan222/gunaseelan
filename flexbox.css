@@ -1,11 +1,8 @@
-.container{
+ul{
     display:flex;
-
+    justify-content:space-between;
 }
-.container div {
-    background-attachment:;
-    border:4px solid yellow;
-    height: 180px;
-    width:180px ;
-
-}
+ li{
+    text-decoration:none;
+    list-style: none;
+ }
